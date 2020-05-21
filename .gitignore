@@ -1,0 +1,4 @@
+# Ignore the usual
+*.DS_Store
+
+writing.sh
